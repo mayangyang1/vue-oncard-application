@@ -1,4 +1,4 @@
-# vue-application
+# vue-oneapplication
 
 使用vue + vant +axios + vuex + vue-route一卡通h5项目并嵌入到小程序中
 

@@ -1,29 +1,8 @@
 # vue-application
 
-## Project setup
-```
-npm install
-```
+使用vue + vant +axios + vuex + vue-route一卡通h5项目
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 项目部分页面截图
+<div align=center>
+  <img src="https://github.com/mayangyang1/vue-oncard-application/raw/master/assets/example/.jpg" width = "400"  alt="" align="center" />
+</div></br></br>
